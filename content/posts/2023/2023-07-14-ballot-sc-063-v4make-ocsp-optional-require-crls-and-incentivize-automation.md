@@ -1,4 +1,4 @@
----
+https://www.chromium.org/Home/chromium-security/root-ca-policy/#2-chrome-root-program-participant-policies---
 aliases:
 - /2023/07/14/ballot-sc-063-v4make-ocsp-optional-require-crls-and-incentivize-automation/
 author: Iñigo Barreira
